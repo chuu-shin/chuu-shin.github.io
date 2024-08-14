@@ -20,9 +20,9 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 ***
 
 ## Awards/Scholarships
-> Scholarship for Academic Excellence
-  - **<span style="background-color:red; color:#4B89DC;">2020 Spring</span>** Salutatorian (ranked #2)
-  - **<span style="color:#4B89DC">2022 Spring</span>** Valedictorian (ranked #1)
+&nbsp; Scholarship for Academic Excellence
+&nbsp;  - **<span style="color:#4B89DC;">2020 Spring</span>** Salutatorian (ranked #2)
+&nbsp;  - **<span style="color:#4B89DC;">2022 Spring</span>** Valedictorian (ranked #1)
   
 ***
 
