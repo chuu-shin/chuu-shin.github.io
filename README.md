@@ -6,9 +6,11 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 ---
 
 ## Research Interest
-- Deep **<span style="color:#4B89DC">Generative Model</span>**
+- Deep Generative Model
 - AI in Medical Field
 - Decision Making
+  
+<br>
 
 ***
 
@@ -18,7 +20,8 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
   - 2 years leave of absence for military service (Oct 2022 - Jul 2024)
 - Chungnam Science High School (Mar 2017 - Feb 2019)
   - Early graduation
- 
+
+<br>
   
 ***
 
@@ -40,6 +43,7 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
   - Advisor: Prof. Woo Chang Kim
   - Research Topics: High Frequency Trading, Reinforcement Learning, Deep Learning
 
+<br>
 
 ***
 
@@ -49,12 +53,16 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 - <b><span style="color:grey;">Spring 2020,</span></b> Department <b><span style="color:#4B89DC;">Valedictorian(ranked #1)</span></b> Scholarship
 - <b><span style="color:grey;">Spring 2020,</span></b> Dean's List (Department of Industrial and Systems Engineering)
 
+<br>
+
 ***
 
 ## Publication
 <b><span style="color:#4B89DC;">["Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
 <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, **Jiwoo Shin&#42;**, Jieun Han&#42;
 <br>Korea Computer Congress (KCC 2022, Poster)
+
+<br>
 
 ***
 
