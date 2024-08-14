@@ -3,6 +3,12 @@ Hi, I am an undergraduate student at **<span style="color:#4B89DC">KAIST</span>*
 <br>
 <br>
 As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to revolutionize the medical field, which is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.
+<br>
+<br>
+#### Motto
+- Help lives. Help organizations. Help the world.
+- Short-term pessimist, long-term optimist
+<br>
 
 <br>
 
