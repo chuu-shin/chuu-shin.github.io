@@ -2,4 +2,5 @@ title: Jiwoo Shin
 logo: /assets/img/2024.jpg
 description: Undedrgraduate Student at KAIST
 # show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
