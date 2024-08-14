@@ -4,9 +4,6 @@ Hi, I am an undergraduate student at **<span style="color:#4B89DC">KAIST</span>*
 <br>
 As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to revolutionize the medical field, which is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.
 
-As an engineer,  I believe generative AI has tremendous potential to revolutionize the medical field, which is why I’m currently interning at the KAIST AAILab, researching deep generative models.
-
-
 <br>
 
 ***
