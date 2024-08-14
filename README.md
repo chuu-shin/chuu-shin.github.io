@@ -7,7 +7,7 @@ As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to mak
 <br>
 I will keep finding out who I really want to be and what I truly want to do.
 <br>
-<br>
+
 ### Motto
 - **<span style="color:#4B89DC">Breaking Routine.</span>** Getting out of my comfort zone.
 - Help lives. Help organizations. Help the world.
