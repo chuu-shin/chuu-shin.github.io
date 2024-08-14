@@ -21,9 +21,9 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 
 ## Awards/Scholarships
 - KAIST IE Frontier Encouragement Award (Nov 2022)
-- <b><span style="color:#4B89DC;">Department Salutatorian(ranked #2) Scholarship</b>(Spring 2022)
-- Department <b><span style="color:#4B89DC;">Valedictorian</span></b> (ranked #1) Scholarship & <b><span style="color:#4B89DC;">Dean's List</span></b> (Spring 2020)
-- Dean's List (Department of Industrial and Systems Engineering)
+- Department <b><span style="color:#4B89DC;">Salutatorian(ranked #2)</b> Scholarship (Spring 2022)
+- Department <b><span style="color:#4B89DC;">Department Valedictorian(ranked #1)</span></b> Scholarship (Spring 2020)
+- Dean's List (Spring 2020)
 
 ***
 
