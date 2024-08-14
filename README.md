@@ -8,7 +8,7 @@ Hello, my name is Jiwoo. I'm currently stuying at KAIST in Daejeon, South Korea.
 ---
 
 ## Research Interest
-- <span style="color:blue">Deep Generative Model</span>
+- **<span style="color:blue">Deep Generative Model</span>**
   - Medical Field
 
 ***
