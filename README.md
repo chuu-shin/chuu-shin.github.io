@@ -7,6 +7,8 @@ Hello, my name is Jiwoo. I'm currently stuying at KAIST in Daejeon, South Korea.
 - Deep Generative Model
   - Medical Field
 
+***
+
 ### Education
 [LinkedIn](www.naver.com)             [GitHub](www.google.com)
 
