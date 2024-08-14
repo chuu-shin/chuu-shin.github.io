@@ -3,8 +3,6 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:blue">KAIST
 
 <br>
 
-<span style="color:blue">파란 글씨</span>
-
 ---
 
 ## Research Interest
