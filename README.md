@@ -65,4 +65,5 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
   - Vice Representative (2020)
   - Vice President (2021)
 - <b><span style="color:#4B89DC;">Reading 200 books challenge</span></b> during military service (21 months)
-  - [Reading Log](https://www.instagram.com/chuu_shin_book_list?igsh=MWl0cmpxOWIwbWpmcw==)
+  - <b><span style="color:#4B89DC;">[Reading Log](https://www.instagram.com/chuu_shin_book_list?igsh=MWl0cmpxOWIwbWpmcw==)</span></b>
+    
