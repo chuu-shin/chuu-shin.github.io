@@ -17,6 +17,8 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
   - 2 years leave of absence for mandatory military service (Oct 2022 - Jul 2024)
 - Chungnam Science High School (Mar 2017 - Feb 2019)
   - Early graduation
+ 
+  
 ***
 
 ## Research Experience
