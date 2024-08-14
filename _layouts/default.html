@@ -21,7 +21,9 @@
           <img class="logo-img" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.description | default: site.github.project_tagline }}<br>
+          <a target="_blank" href="mailto:natu33@kaist.ac.kr">natu33@kaist.ac.kr</a>
+        </p>
 
 <!--         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -29,7 +31,7 @@
 
         {% if site.github.is_user_page %}
         <p class="view">
-          <a target="_blank" href="mailto:natu33@kaist.ac.kr">natu33@kaist.ac.kr</a><br><br>
+<!--           <a target="_blank" href="mailto:natu33@kaist.ac.kr">natu33@kaist.ac.kr</a><br><br> -->
           <a href="{{ site.github.owner_url }}">GitHub</a>
           <a href="https://www.linkedin.com/in/jiwoo-shin-0030a1217">LinkedIn</a>
           <a href="/assets/cv_jiwooshin.pdf">CV</a></p>
