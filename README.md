@@ -15,7 +15,7 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 - **B.S.** in Industrial and Systems Engineering & Computer Science (Mar 2019 - Present)
   - GPA: 3.77/4.3, Major GPA: 3.95/4.3
   - 2 years leave of absence for mandatory military service (Oct 2022 - Jul 2024)
-- Chungnam Science High School
+- Chungnam Science High School (Mar 2017 - Feb 2019)
   - Early Graduation
 ***
 
