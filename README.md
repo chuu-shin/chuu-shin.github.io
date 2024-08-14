@@ -21,7 +21,8 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
   
 ***
 
-## Research Experience (Intern)
+## Research Experience
+#### Undergraduate Research Intern
 - KAIST Applied Artificial Intelligence Laboratory (Sep 2024 - Present)
   - Advisor: Prof. Il-Chul Moon
   - Research Topics: Deep Generative Model
