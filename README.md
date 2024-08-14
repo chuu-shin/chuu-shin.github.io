@@ -1,8 +1,11 @@
 ## About Me
-Hi, I am an undergraduate student at **<span style="color:#4B89DC">KAIST</span>**, double majoring in Industrial and Systems Engineering & Computer Science.
+Hi, I am an undergraduate student at **<span style="color:#4B89DC">KAIST</span>**, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
 <br>
 <br>
-As an engineer, <span style="color:#4B89DC">I want to do something beneficial from a macro perspective</span> in the future and this always motivates me. I believe generative AI possesses tremendous power which can innovate the medical field. That is **<span style="color:#4B89DC">WHY</span>** I currently working as an intern at [KAIST AAILab](https://aai.kaist.ac.kr) to learn deep generative models.
+As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to revolutionize the medical field, which is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models.
+
+As an engineer,  I believe generative AI has tremendous potential to revolutionize the medical field, which is why I’m currently interning at the KAIST AAILab, researching deep generative models.
+
 
 <br>
 
