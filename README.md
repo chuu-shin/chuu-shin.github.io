@@ -59,7 +59,7 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 
 ***
 
-## Publication
+## Publications
 <b><span style="color:#4B89DC;">["Nodes-in-Cluster Significance Score(NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data"](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831)</span></b>
 <br>Junhyeok Jung&#42;, Kwanghyeon Lee&#42;, **Jiwoo Shin&#42;**, Jieun Han&#42;
 <br>Korea Computer Congress (KCC 2022, Poster)
@@ -69,3 +69,7 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 ***
 
 ## Activities
+
+<b><span style="color:#4B89DC;">Student Council</span></b>, Department of Industrial and Systems Engineering
+- Vice Representative (2020)
+- Vice President (2021)
