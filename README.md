@@ -36,7 +36,7 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
     
 - KAIST Financial Engineering Laboratory (Jun 2021 - Aug 2021)
   - Advisor: Prof. Woo Chang Kim
-  - Research Topics: High Frequency Trading, RL, Deep Learning
+  - Research Topics: High Frequency Trading, Reinforcement Learning, Deep Learning
 
 
 ***
