@@ -2,7 +2,7 @@
 Hi, I am an undergraduate student at **<span style="color:#4B89DC">KAIST</span>**, double majoring in <span style="color:#4B89DC">Industrial and Systems Engineering</span> and <span style="color:#4B89DC">Computer Science</span>.
 <br>
 <br>
-As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to revolutionize the medical field, which is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models. 
+As an engineer, <span style="color:#4B89DC">I’m motivated by the desire to make a beneficial impact on a large scale.</span> I believe generative AI has tremendous potential to innovate the medical field, which is **<span style="color:#4B89DC">WHY</span>** I'm currently interning at [KAIST AAILab](https://aai.kaist.ac.kr), researching deep generative models. 
 <br>
 <br>
 I will keep finding out who I really want to be and what I truly want to do.
