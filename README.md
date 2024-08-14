@@ -61,7 +61,7 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 
 ## Activities
 - <b><span style="color:#4B89DC;">Reading 200 books challenge</span></b> during military service (21 months)
-  - [Reading Log](https://www.instagram.com/chuu_shin_book_list?igsh=MWl0cmpxOWIwbWpmcw==)
+  - [Reading Log (Instagram)](https://www.instagram.com/chuu_shin_book_list?igsh=MWl0cmpxOWIwbWpmcw==)
   - [Reading Blog](https://m.blog.naver.com/chuushin)
 - <b><span style="color:#4B89DC;">Student Council</span></b> (Department of Industiral and Systems Engineering)
   - Vice Representative (2020)
