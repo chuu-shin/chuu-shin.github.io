@@ -61,6 +61,6 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 
 ## Activities
 
-- Department of Industiral and Systems Engineering <b><span style="color:#4B89DC;">Student Council</span></b>
+- <b><span style="color:#4B89DC;">Student Council</span></b> (Department of Industiral and Systems Engineering)
   - Vice Representative (2020)
   - Vice President (2021)
