@@ -1,6 +1,6 @@
-# About Me
+#About Me
 
-## Undergraduate Student at KAIST
+##Undergraduate Student at KAIST
 
 # Education
 
