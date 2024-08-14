@@ -62,7 +62,7 @@ Hi, I am an undergraduate student at **<span style="color:#4B89DC">KAIST</span>*
 ## Activities
 - <b><span style="color:#4B89DC;">Reading 200 books challenge</span></b> during military service (21 months)
   - [Reading Log (Instagram)](https://www.instagram.com/chuu_shin_book_list?igsh=MWl0cmpxOWIwbWpmcw==)
-  - [Reading Blog](https://m.blog.naver.com/chuushin)
+  - [Book Review (Naver Blog)](https://m.blog.naver.com/chuushin)
 - <b><span style="color:#4B89DC;">Student Council</span></b> (Department of Industiral and Systems Engineering)
   - Vice Representative (2020)
   - Vice President (2021)
