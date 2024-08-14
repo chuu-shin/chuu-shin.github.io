@@ -1,5 +1,5 @@
 ## About Me
-Hello, my name is Jiwoo. I'm currently stuying at KAIST in Daejeon, South Korea. I'm majoring Industrial and Systems Engineering (ISE) and Computer Science. 
+Hello, my name is Jiwoo. I'm currently stuying at <span style="color:blue">KAIST</span> in Daejeon, South Korea. I'm majoring Industrial and Systems Engineering (ISE) and Computer Science. 
 
 <br>
 
