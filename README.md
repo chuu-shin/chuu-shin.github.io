@@ -7,7 +7,9 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
 
 ## Research Interest
 - Deep Generative Model
+<br>
 - AI in Medical Field
+<br>
 - Decision Making
   
 <br>
