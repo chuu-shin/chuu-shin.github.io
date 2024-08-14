@@ -21,7 +21,23 @@ Hello, my name is Jiwoo. I'm currently stuying at <span style="color:#4B89DC">KA
   
 ***
 
-## Research Experience
+## Research Experience (Intern)
+- KAIST Applied Artificial Intelligence Laboratory (Sep 2024 - Present)
+  - Advisor: Prof. Il-Chul Moon
+  - Research Topics: Deep Generative Model
+    
+- KAIST Applied Artificial Intelligence Laboratory (Mar 2022 - Aug 2022)
+  - Advisor: Prof. Il-Chul Moon, Ph.D. Mingi Ji
+  - Research Topics: Knowledge Distillation, Class Imbalance
+    
+- KAIST Applied Artificial Intelligence Laboratory (Dec 2021 - Feb 2022)
+  - Advisor: Prof. Il-Chul Moon
+  - Research Topics: NLP, Deep Generative Model
+    
+- KAIST Financial Engineering Laboratory (Jun 2021 - Aug 2021)
+  - Advisor: Prof. Woo Chang Kim
+  - Research Topics: High Frequency Trading, RL, Deep Learning
+
 
 ***
 
