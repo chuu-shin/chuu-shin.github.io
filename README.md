@@ -40,11 +40,11 @@ I will keep finding out who I really want to be and what I truly want to do.
 #### Undergraduate Research Intern
 - KAIST Applied Artificial Intelligence Laboratory (Sep 2024 - Present)
   - Advisor: Prof. Il-Chul Moon
-  - Research Topics: Deep Generative Model
+  - Research Topics: Retrieval-Augmented Generation (RAG)
     
 - KAIST Applied Artificial Intelligence Laboratory (Mar 2022 - Aug 2022)
   - Advisor: Prof. Il-Chul Moon, Ph.D. Mingi Ji
-  - Research Topics: Knowledge Distillation, Class Imbalance
+  - Research Topics: Class Imbalance, Knowledge Distillation
     
 - KAIST Applied Artificial Intelligence Laboratory (Dec 2021 - Feb 2022)
   - Advisor: Prof. Il-Chul Moon
