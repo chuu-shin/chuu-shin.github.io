@@ -73,7 +73,7 @@ I will keep finding out who I really want to be and what I truly want to do.
 
 ## Activities
 - KAIST Korean Buddy (Fall 2024)
-  - Assist international student's campus life during a semester
+  - Assist international exchange student's campus life during a semester
 - <b><span style="color:#4B89DC;">Reading 200 books challenge</span></b> during military service (21 months)
   - [Reading Log (Instagram)](https://www.instagram.com/chuu_shin_book_list?igsh=MWl0cmpxOWIwbWpmcw==)
   - [Book Review (Naver Blog)](https://m.blog.naver.com/chuushin)
