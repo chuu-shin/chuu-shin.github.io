@@ -12,6 +12,7 @@ I will keep finding out who I really want to be and what I truly want to do.
 - **<span style="color:#4B89DC">Breaking Routine.</span>** Getting out of my comfort zone.
 - Help lives. Help organizations. Help the world.
 - Short-term pessimist, long-term optimist
+- As Bill Gates argued at the World Economic Forum, “there are two great forces of human nature: self-interest, and caring for others,” and people are most successful when they are driven by a “hybrid engine” of the two.
 <br>
 
 ***
