@@ -60,7 +60,7 @@ title: Jiwoo Shin | KAIST
       <div>
         <h3>Korea Advanced Institute of Science and Technology</h3>
         <p>M.S. student, Kim Jaechul Graduate School of AI</p>
-        <p class="timeline__meta">Advised by Prof. Il-Chul Moon</p>
+        <p class="timeline__meta">Advisor: Il-Chul Moon</p>
       </div>
     </article>
     <article class="timeline__item">
