@@ -7,14 +7,14 @@ title: Jiwoo Shin | KAIST
   <aside class="profile-card" aria-label="Profile">
     <img class="profile-card__photo" src="/assets/img/2024.jpg" alt="Portrait of Jiwoo Shin">
     <h1>Jiwoo Shin</h1>
-    <p class="profile-card__role">Incoming M.S. Student</p>
+    <p class="profile-card__role">M.S. Student</p>
     <p class="profile-card__bio">
-      I am an incoming M.S. student at <a href="https://gsai.kaist.ac.kr/">KAIST Graduate School of AI</a>,
+      I am an M.S. student at <a href="https://gsai.kaist.ac.kr/">KAIST Kim Jaechul Graduate School of AI</a>,
       advised by Prof. Il-Chul Moon at <a href="https://aai.kaist.ac.kr/">KAIST AAILab</a>.
     </p>
-    <!-- <p class="profile-card__note">
-      My email/DM are open to anyone interested in research and collaboration.
-    </p> -->
+    <p class="profile-card__note">
+      My email and DMs are always open. Feel free to reach out to chat about research.
+    </p>
     <div class="profile-links" aria-label="Profile links">
       <a href="/assets/documents/cv_jiwooshin.pdf">
         <img src="/assets/img/cv.svg" alt="">
@@ -45,7 +45,7 @@ title: Jiwoo Shin | KAIST
       <!-- My research interest is inference-time controllability and alignment: methods that steer generative
       models toward outputs that are safe, useful, and aligned with user intent without requiring expensive
       retraining. -->
-      My research interests lie in inference-time controllability and alignment, with a focus on methods that steer generative models toward safe and user-aligned outputs without requiring expensive retraining. Recently, I have been especially interested in safe generation and discrete diffusion.
+      My research interests lie in inference-time controllability and alignment. I work on methods that steer generative models toward safe, user-intended outputs without expensive retraining. Recently, I have been focusing on safe generation and discrete diffusion, particularly diffusion language models.
     </p>
   </div>
 </section>
@@ -56,7 +56,15 @@ title: Jiwoo Shin | KAIST
   </div>
   <div class="timeline">
     <article class="timeline__item">
-      <div class="timeline__date">02/2019 - Present</div>
+      <div class="timeline__date">09/2026 - Present</div>
+      <div>
+        <h3>Korea Advanced Institute of Science and Technology</h3>
+        <p>M.S. student, Kim Jaechul Graduate School of AI</p>
+        <p class="timeline__meta">Supervised by Prof. Il-Chul Moon</p>
+      </div>
+    </article>
+    <article class="timeline__item">
+      <div class="timeline__date">02/2019 - 08/2026</div>
       <div>
         <h3>Korea Advanced Institute of Science and Technology</h3>
         <p>B.S. in Industrial and Systems Engineering & Computer Science (Double Major)</p>
@@ -102,6 +110,7 @@ title: Jiwoo Shin | KAIST
       <p class="publication__venue">Korea Computer Congress, 2022</p>
       <h3><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11113831">Nodes-in-Cluster Significance Score (NCSS): Keyword Extraction with Redefined TW-IDF using Stock News Text Data</a></h3>
       <p>Junhyeok Jung*, Kwanghyeon Lee*, <strong>Jiwoo Shin*</strong>, Jieun Han*</p>
+      <p class="publication__note">* Equal contribution.</p>
     </article>
   </div>
 </section>
@@ -111,6 +120,11 @@ title: Jiwoo Shin | KAIST
     <p class="eyebrow">Awards</p>
   </div>
   <div class="recognition-grid">
+    <article>
+      <span>Aug 2026</span>
+      <strong>Magna Cum Laude</strong>
+      <p>KAIST</p>
+    </article>
     <article>
       <span>Sep 2025</span>
       <strong>Next-Generation Engineer, Grand Prize</strong>

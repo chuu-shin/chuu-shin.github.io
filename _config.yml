@@ -1,6 +1,6 @@
 title: Jiwoo Shin
 logo: /assets/img/2024.jpg
-description: Generative AI researcher focused on controllable and aligned diffusion models.
+description: M.S. student at KAIST Kim Jaechul Graduate School of AI, working on inference-time controllability and alignment of generative models.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
@@ -8,7 +8,7 @@ is_user_page: true
 plugins:
   - jekyll-seo-tag
 
-url: "https://chuu-shin.github.io"
+url: "https://jiwooshin-kr.github.io"
 baseurl: ""
 
 
@@ -25,3 +25,14 @@ baseurl: ""
 # # theme: jekyll-theme-minimal
 # remote_theme: pages-themes/minimal@v0.2.0
 # # theme: null
+
+# Theme template leftovers - kept in the repo, not published to the site.
+exclude:
+  - docs/
+  - script/
+  - README.md
+  - LICENSE
+  - jekyll-theme-minimal.gemspec
+  - thumbnail.png
+  - .rubocop.yml
+  - .travis.yml
